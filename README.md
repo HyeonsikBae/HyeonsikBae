@@ -3,7 +3,7 @@
 ### 🎓 Education
   - 42 Seoul
     - cadet (From Sep 2020 ~ )
-    ![hybae's 42Seoul Stats](https://badge42.herokuapp.com/api/stats/hybae)
+    - ![hybae's 42Seoul Stats](https://badge42.herokuapp.com/api/stats/hybae)
   - kit
     - Kumoh National Institute of Technology (Graduated in Feb 2018)
     - Bachelor of Engineering, Electronic Engineering

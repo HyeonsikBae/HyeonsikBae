@@ -20,6 +20,8 @@
     - Engineering Education Festa 2017 (hosted by KIAT)
     - Awarded by the Director of Korea Institute for Advancement of Technology
     - Power controllable Multi-tap IoT Metering system on Network
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeonsik-bae-a4b864176/)](https://www.linkedin.com/in/hyeonsik-bae-a4b864176/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeonsik12@gmail.com)](mailto:hyeonsik12@gmail.com)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

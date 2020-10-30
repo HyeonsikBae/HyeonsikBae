@@ -1,4 +1,4 @@
-# Hi there ! I'm Hyeonsik Bae<div align=right>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%231432BC&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+# Hi there ! I'm Hyeonsik Bae<div align=right>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeonsikBae&count_bg=%230300FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
 ### 🎓 Education
   - 42 Seoul
